@@ -3,13 +3,13 @@
 > I used AWS before it was cool — to automate sneaker drops and maximize profits.  
 > Now I just build solid systems that run constantly and quietly - even at 3am. 😌
 
-I got into tech not through textbooks, but by building real things that had to work fast.
+I got into tech not through textbooks, but by building real things that had to work, really fast.
 
-Back in 2019, I launched a small resale business focused on limited-edition sneakers.
-What started as a side hustle quickly turned into a fully automated cloud setup — running on AWS, with CloudWatch dashboards, real-time alerts, and over 500 successful transactions across Poland and global platforms like StockX and KLEKT.
+Back in 2019, as a teenager, I launched a small resale business focused on limited-edition sneakers.
+What started as a side hustle quickly turned into a fully automated cloud setup — with EC2 instances like c5a.xlarge, CloudWatch dashboards, real-time alerts, and over 500 successful transactions across Poland and global platforms like StockX and KLEKT.
 
 But I wasn’t just flipping shoes.
-I was designing infrastructure, tuning performance, managing cloud costs with Budgets and Cost Explorer, and helping others build workflows that could handle real-world load without breaking.
+I was designing infrastructure, monitoring traffic, tuning performance, managing costs with Budgets and Cost Explorer, and helping others configure their own AWS workflows — all before finishing high school.
 
 That early, high-pressure experience taught me what tutorials usually don’t:
 - how to deliver when things are on fire,
