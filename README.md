@@ -80,7 +80,6 @@ If it runs in the cloud, sends an alert, and doesn’t need babysitting — it�
 
 ---
 
-## Most Used Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkot16&layout=compact&theme=dark&text_color=ffffff&hide_border=true&langs_count=4" />
