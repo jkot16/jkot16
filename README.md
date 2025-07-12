@@ -79,6 +79,7 @@ If it runs in the cloud, sends an alert, and doesn’t need babysitting — it�
 
 | Project | Description | Stack |
 |--------|-------------|--------|
+| [**DataDriver**](http://3.75.208.53/) | Responsive site built with WordPress block editor (FSE), custom branding, sections, CTA, pricing plans | WordPress, UX, Figma, CSS |
 | [**Cerberus-DevOps**](https://github.com/jkot16/cerberus-devops) | Dockerized Flask app with self-monitoring, Discord alerts, and full CI/CD to EC2 | Flask, Docker, GitHub Actions, EC2 |
 | [**CryptoShark**](https://github.com/jkot16/crypto-shark) | Desktop crypto watcher with sentiment alerts (Reddit/Twitter + HuggingFace) | Python, PySide6, Transformers, cron |
 | [**MonkeyTyper**](https://github.com/jkot16/monkey-typer) | Typing trainer in C++ with save/load, animations, leaderboard | C++20, SFML, CMake |
