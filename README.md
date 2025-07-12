@@ -20,6 +20,8 @@ Today I focus on backend and DevOps — building tools that scale smoothly, depl
 
 If it runs in the cloud, sends an alert, and doesn’t need babysitting — it’s probably my kind of project 😇
 
+And when it faces real users, I want it to feel clear, simple, and actually helpful.
+
 ---
 
 ## Skills Overview
