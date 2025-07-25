@@ -18,7 +18,7 @@ That early, high-pressure experience taught me what tutorials usually don’t:
 
 Today I focus on backend and DevOps - building tools that scale smoothly, deploy fast, and stay out of the way.
 
-If it runs in the cloud, sends an alert, and doesn’t need babysitting — it’s probably my kind of project 😇
+If it runs in the cloud, sends an alert, and doesn’t need babysitting - it’s probably my kind of project 😇
 
 And when it faces real users, I want it to feel clear, simple, and actually helpful.
 
