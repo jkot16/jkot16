@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakub
 
-> I used AWS before it was cool — to automate sneaker drops and maximize profits.  
+> I used AWS before it was cool - to automate sneaker drops and maximize profits.  
 > Now I just build solid systems that run constantly and quietly - even at 3am. 😌
 
 I got into tech not through textbooks, but by building real things that had to work, really fast.
@@ -9,14 +9,14 @@ Back in 2019, as a teenager, I launched a small resale business focused on limit
 What started as a side hustle quickly turned into a fully automated cloud setup - with EC2 instances like c5a.xlarge, CloudWatch dashboards, real-time alerts, and over 500 successful transactions across Poland and global platforms like StockX and KLEKT.
 
 But I wasn’t just flipping shoes.
-I was designing infrastructure, monitoring traffic, tuning performance, managing costs with Budgets and Cost Explorer, and helping others configure their own AWS workflows — all before finishing high school.
+I was designing infrastructure, monitoring traffic, tuning performance, managing costs with Budgets and Cost Explorer, and helping others configure their own AWS workflows - all before finishing high school.
 
 That early, high-pressure experience taught me what tutorials usually don’t:
 - how to deliver when things are on fire,
 - how to think in systems, not just code,
 - and how to make tools that quietly do their job while you sleep.
 
-Today I focus on backend and DevOps — building tools that scale smoothly, deploy fast, and stay out of the way.
+Today I focus on backend and DevOps - building tools that scale smoothly, deploy fast, and stay out of the way.
 
 If it runs in the cloud, sends an alert, and doesn’t need babysitting — it’s probably my kind of project 😇
 
