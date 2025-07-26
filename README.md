@@ -38,6 +38,7 @@ And when it faces real users, I want it to feel clear, simple, and actually help
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cron-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trivy-4B0082?style=for-the-badge&logo=trivy&logoColor=white"/>
 </p>
 
@@ -81,12 +82,13 @@ And when it faces real users, I want it to feel clear, simple, and actually help
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [**DataDriver**](http://3.75.208.53/) | Responsive site built with WordPress block editor (FSE), custom branding, sections, CTA, pricing plans | WordPress, UX, Figma, CSS |
+| [**Cloud Sentinel**](https://github.com/jkot16/cloud-sentinel) | Production-grade EC2→S3 backup system with hourly scheduler (EventBridge + SSM), Slack alerts, CloudWatch logging, Flask dashboard (`/status`), full CI/CD and Terraform provisioning. | Bash, AWS CLI, Docker, Flask, Slack Webhook, CloudWatch, GitHub Actions, Terraform |
 | [**Cerberus-DevOps**](https://github.com/jkot16/cerberus-devops) | Dockerized Flask app with self-monitoring, Discord alerts, and full CI/CD to EC2 | Flask, Docker, GitHub Actions, EC2 |
 | [**CryptoShark**](https://github.com/jkot16/crypto-shark) | Desktop crypto watcher with sentiment alerts (Reddit/Twitter + HuggingFace) | Python, PySide6, Transformers, cron |
-| [**MonkeyTyper**](https://github.com/jkot16/monkey-typer) | Typing trainer in C++ with save/load, animations, leaderboard | C++20, SFML, CMake |
+| [**DataDriver**](http://3.75.208.53/) | Responsive site built with WordPress block editor (FSE), custom branding, sections, CTA, pricing plans | WordPress, UX, Figma, CSS |
 | [**Chess (Java + C++)**](https://github.com/jkot16/chess-jni) | Chess app with Java GUI and native C++ engine via JNI | Java, C++, Swing, JNI |
 | [**Savings Simulator**](https://github.com/jkot16/savings-simulator) | Financial sim app with Groovy scripting, logging, and custom charting | Java, JFreeChart, Groovy, Swing |
+| [**MonkeyTyper**](https://github.com/jkot16/monkey-typer) | Typing trainer in C++ with save/load, animations, leaderboard | C++20, SFML, CMake |
 > 💡 Each project includes detailed README with demo, screenshots, and architecture overview.
 
 
@@ -94,7 +96,7 @@ And when it faces real users, I want it to feel clear, simple, and actually help
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkot16&layout=compact&theme=dark&text_color=ffffff&hide_border=true&langs_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkot16&layout=compact&theme=dark&text_color=ffffff&hide_border=true&langs_count=4&show_icons=true" />
 </p>
 
 ---
