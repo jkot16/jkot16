@@ -20,7 +20,7 @@ Today I focus on backend and DevOps - building tools that scale smoothly, deploy
 
 ```bash
 > whoami
-operator | devops | system builder
+operator, devops, system builder
 > echo $MISSION
 "one trigger, full pipeline, no downtime"
 ```
