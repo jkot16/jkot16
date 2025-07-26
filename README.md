@@ -18,6 +18,13 @@ That early, high-pressure experience taught me what tutorials usually don’t:
 
 Today I focus on backend and DevOps - building tools that scale smoothly, deploy fast, and stay out of the way.
 
+```bash
+> whoami
+operator | devops | system builder
+> echo $MISSION
+"one trigger, full pipeline, no downtime"
+```
+
 If it runs in the cloud, sends an alert, and doesn’t need babysitting - it’s probably my kind of project 😇
 
 And when it faces real users, I want it to feel clear, simple, and actually helpful.
@@ -38,8 +45,9 @@ And when it faces real users, I want it to feel clear, simple, and actually help
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cron-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trivy-4B0082?style=for-the-badge&logo=trivy&logoColor=white"/>
+  
 </p>
 
 ### Programming & Tools
@@ -118,3 +126,8 @@ And when it faces real users, I want it to feel clear, simple, and actually help
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jakub Kot LinkedIn"/>
   </a>
 </p>
+
+
+
+
+
