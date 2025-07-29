@@ -21,8 +21,6 @@ That early, high-pressure experience taught me what tutorials usually don’t:
 If it runs in the cloud, looks polished, and doesn’t need babysitting – it’s probably my kind of project. 😇
 
 
-And when it faces real users, I want it to feel clear, simple, and actually helpful.
-
 ---
 
 ## Skills Overview
