@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakub
 
-> I used AWS before it was cool – to automate sneaker drops and maximize profits.  
+> I used AWS before it was cool – to optimize high-demand product releases and maximize profits.  
 > Now I design solid systems and websites that run smoothly and look professional – even at 3am. 😌
 
 I got into tech not through textbooks, but by building real things that had to work, really fast.
