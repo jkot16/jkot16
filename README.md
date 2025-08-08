@@ -1,25 +1,29 @@
 # 👋 Hi, I'm Jakub
 
 > I used AWS before it was cool - to optimize high-demand product releases and maximize profits.  
-> Now I design solid systems and websites that run smoothly and look professional – even at 3am. 😌
+> Now I design solid systems that run smoothly and look professional - even at 3am. 😌
 
 I got into tech not through textbooks, but by building real things that had to work, really fast.
 
 Back in 2019, as a teenager, I launched a small resale business focused on limited-edition sneakers.  
-What started as a side hustle quickly turned into a fully automated online setup – complete with websites, cloud infrastructure, and over 500 successful transactions across Poland and global platforms like StockX and KLEKT.
+What started as a side hustle quickly turned into a fully automated online setup – complete with cloud infrastructure, and over 500 successful transactions across Poland and global platforms like StockX and KLEKT.
 
 But I wasn’t just flipping shoes.  
-I was designing websites and systems, improving their look and performance, and making sure the user experience felt clean and trustworthy – all before finishing high school.
+I was running cloud-based operations, optimising AWS setups, and keeping every transaction fast, reliable, and well-coordinated - all before finishing high school.
 
 That early, high-pressure experience taught me what tutorials usually don’t:
 - how to deliver when things are on fire,
-- how to think in systems and in terms of user experience,
-- and how to make tools and websites that quietly do their job while looking great.
+- how to think in systems, not just code,
+- and how to make tools that quietly do their job.
 
-**Today I focus on backend, DevOps, and building WordPress websites that are clear, responsive, and aligned with a brand’s image.**
+**Today I focus on backend, DevOps, and automation - designing cloud-based systems that are monitored, cost-efficient, and capable of running intelligent, AI-driven workflows with minimal human input. I like building pipelines that connect data, automate decisions, and keep services running smoothly under any conditions.**
 
-If it runs in the cloud, looks polished, and doesn’t need babysitting – it’s probably my kind of project. 😇
+If it runs in the cloud, looks polished, uses AI to work smarter, and doesn’t need babysitting - it’s probably my kind of project. 😇
 
+
+---
+
+Below is an overview of my skills and the projects where I’ve applied them in real scenarios.
 
 ---
 
@@ -46,8 +50,7 @@ If it runs in the cloud, looks polished, and doesn’t need babysitting – it�
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white"/>
@@ -55,14 +58,16 @@ If it runs in the cloud, looks polished, and doesn’t need babysitting – it�
   <img src="https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-NLP-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace_NLP-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white"/>
+  
 </p>
-
 
 ### Web Design & Content
 
@@ -84,7 +89,7 @@ If it runs in the cloud, looks polished, and doesn’t need babysitting – it�
 |--------|-------------|--------|
 | [**Cloud Sentinel**](https://github.com/jkot16/cloud-sentinel) | Production-grade EC2→S3 backup system with hourly scheduler (EventBridge + SSM), Slack alerts, CloudWatch logging, Flask dashboard (`/status`), full CI/CD and Terraform provisioning. | Bash, AWS CLI, Docker, Flask, Slack Webhook, CloudWatch, GitHub Actions, Terraform |
 | [**Cerberus-DevOps**](https://github.com/jkot16/cerberus-devops) | Dockerized Flask app with self-monitoring, Discord alerts, and full CI/CD to EC2 | Flask, Docker, GitHub Actions, EC2 |
-| [**CryptoShark**](https://github.com/jkot16/crypto-shark) | Desktop crypto watcher with sentiment alerts (Reddit/Twitter + HuggingFace) | Python, PySide6, Transformers, cron |
+| [**CryptoShark**](https://github.com/jkot16/crypto-shark) | Desktop crypto watcher with AI-powered sentiment analysis (Reddit/Twitter + HuggingFace) | Python, PySide6, Transformers, cron |
 | [**DataDriver**](http://3.75.208.53/) | Responsive site built with WordPress block editor (FSE), custom branding, sections, CTA, pricing plans | WordPress, UX, CSS |
 | [**Chess (Java + C++)**](https://github.com/jkot16/chess-jni) | Chess app with Java GUI and native C++ engine via JNI | Java, C++, Swing, JNI |
 | [**Savings Simulator**](https://github.com/jkot16/savings-simulator) | Financial sim app with Groovy scripting, logging, and custom charting | Java, JFreeChart, Groovy, Swing |
