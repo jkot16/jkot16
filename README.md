@@ -66,6 +66,7 @@ Below is an overview of my skills and the projects where I’ve applied them in 
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace_NLP-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
   
 </p>
 
@@ -87,13 +88,13 @@ Below is an overview of my skills and the projects where I’ve applied them in 
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [**Cloud Sentinel**](https://github.com/jkot16/cloud-sentinel) | Production-grade EC2→S3 backup system with hourly scheduler (EventBridge + SSM), Slack alerts, CloudWatch logging, Flask dashboard (`/status`), full CI/CD and Terraform provisioning. | Bash, AWS CLI, Docker, Flask, Slack Webhook, CloudWatch, GitHub Actions, Terraform |
+| [**Cloud Sentinel**](https://github.com/jkot16/cloud-sentinel) | Production-grade EC2→S3 backup system with hourly scheduler (EventBridge + SSM), Slack alerts, CloudWatch logging, Flask dashboard (/status), full CI/CD and Terraform provisioning. | Bash, AWS CLI, Docker, Flask, Slack Webhook, CloudWatch, GitHub Actions, Terraform |
+| [**OrderFlowAI**](https://github.com/jkot16/order-flow-ai) | AI-powered order tracking system integrating Python backend, Google Sheets API, OpenAI API, n8n workflows, and Power Automate PDF reporting. Automates customer emails, Slack alerts, and daily KPI reporting. | Python, Flask, Google Sheets API, OpenAI API, n8n, Power Automate, Docker, AWS, GitHub Actions |
 | [**Cerberus-DevOps**](https://github.com/jkot16/cerberus-devops) | Dockerized Flask app with self-monitoring, Discord alerts, and full CI/CD to EC2 | Flask, Docker, GitHub Actions, EC2 |
 | [**CryptoShark**](https://github.com/jkot16/crypto-shark) | Desktop crypto watcher with AI-powered sentiment analysis (Reddit/Twitter + HuggingFace) | Python, PySide6, Transformers, cron |
 | [**DataDriver**](http://3.75.208.53/) | Responsive site built with WordPress block editor (FSE), custom branding, sections, CTA, pricing plans | WordPress, UX, CSS |
 | [**Chess (Java + C++)**](https://github.com/jkot16/chess-jni) | Chess app with Java GUI and native C++ engine via JNI | Java, C++, Swing, JNI |
 | [**Savings Simulator**](https://github.com/jkot16/savings-simulator) | Financial sim app with Groovy scripting, logging, and custom charting | Java, JFreeChart, Groovy, Swing |
-| [**MonkeyTyper**](https://github.com/jkot16/monkey-typer) | Typing trainer in C++ with save/load, animations, leaderboard | C++20, SFML, CMake |
 > 💡 Each project includes detailed README with demo, screenshots, and architecture overview.
 
 
@@ -123,8 +124,3 @@ Below is an overview of my skills and the projects where I’ve applied them in 
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jakub Kot LinkedIn"/>
   </a>
 </p>
-
-
-
-
-
