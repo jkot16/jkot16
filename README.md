@@ -89,12 +89,11 @@ Below is an overview of my skills and the projects where I’ve applied them in 
 | Project | Description | Stack |
 |--------|-------------|--------|
 | [**Cloud Sentinel**](https://github.com/jkot16/cloud-sentinel) | Production-grade EC2-to-S3 backup system with hourly scheduler (EventBridge + SSM), Slack alerts, CloudWatch logging, Flask dashboard (/status), full CI/CD and Terraform provisioning. | Bash, AWS CLI, Docker, Flask, Slack Webhook, CloudWatch, GitHub Actions, Terraform |
+| [**Cerberus-DevOps**](https://github.com/jkot16/cerberus-devops) | Lightweight self-monitoring Flask app with Dockerized health checks, cron-based uptime logging, Discord alerts, styled dashboard, and full CI/CD pipeline (tests, Trivy scan, Docker build & deploy to EC2). | Python, Flask, Docker, Bash, Cron, Discord Webhooks, GitHub Actions, AWS EC2 |
 | [**OrderFlowAI**](https://github.com/jkot16/order-flow-ai) | AI-powered order tracking system integrating Python backend, Google Sheets API, OpenAI API, n8n workflows, and Power Automate PDF reporting. Automates customer emails, Slack alerts, and daily KPI reporting. | Python, Flask, Google Sheets API, OpenAI API, n8n, Power Automate, Docker, AWS, GitHub Actions |
 | [**CryptoShark**](https://github.com/jkot16/crypto-shark) | Desktop crypto watcher with AI-powered sentiment analysis (Reddit/Twitter + HuggingFace) | Python, PySide6, Transformers, cron |
 | [**DataDriver**](http://3.75.208.53/) | Responsive site built with WordPress block editor (FSE), custom branding, sections, CTA, pricing plans | WordPress, UX, CSS |
-| [**Chess (Java + C++)**](https://github.com/jkot16/chess-jni) | Chess app with Java GUI and native C++ engine via JNI | Java, C++, Swing, JNI |
-| [**Savings Simulator**](https://github.com/jkot16/savings-simulator) | Financial sim app with Groovy scripting, logging, and custom charting | Java, JFreeChart, Groovy, Swing |
-> 💡 Each project includes detailed README with demo, screenshots, and architecture overview.
+> 💡 Each project includes detailed README screenshots and architecture overview.
 
 
 ---
