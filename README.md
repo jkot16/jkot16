@@ -20,6 +20,14 @@ That early, high-pressure experience taught me what tutorials usually don’t:
 
 If it runs in the cloud, looks polished, uses AI to work smarter, and doesn’t need babysitting - it’s probably my kind of project. 😇
 
+---
+
+## 🔥 Highlights  
+
+- 🚀 **500+ transactions** before turning 20 - using AWS EC2, CloudWatch and cost optimization to run a sneaker resale business.  
+- 🛠️ **3 production-grade DevOps projects** - with CI/CD pipelines, IaC (Terraform), observability (CloudWatch, dashboards), and security scans.  
+- ☁️ **AWS Certified Cloud Practitioner** - validated cloud knowledge, combined with hands-on automation projects.  
+
 
 ---
 
