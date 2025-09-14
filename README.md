@@ -128,5 +128,8 @@ Below is an overview of my skills and the projects where I’ve applied them in 
 <p align="left">
   <a href="https://www.linkedin.com/in/jakub-kot-a2ba78333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jakub Kot LinkedIn"/>
+  </a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=jakubkot.tech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jakubkot.tech@gmail.com"/>
   </a>
 </p>
+
